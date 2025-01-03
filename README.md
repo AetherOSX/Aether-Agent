@@ -1,5 +1,6 @@
 
 # Ether 🤖
+![spiderkuma](https://github.com/user-attachments/assets/04c40626-39d7-4eee-96b1-231f8406da37)
 
 ## ✨ Features
 
