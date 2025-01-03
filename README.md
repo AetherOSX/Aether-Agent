@@ -1,18 +1,22 @@
-# Eliza 🤖
+Here's the updated version with every reference to "Eliza" replaced with "Ether":
+
+---
+
+# Ether 🤖
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <img src="./docs/static/img/ether_banner.jpg" alt="Ether Banner" width="100%" />
 </div>
 
 <div align="center">
 
-📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
+📖 [Documentation](https://etheros.github.io/ether/) | 🎯 [Examples](https://github.com/thejoven/awesome-ether)
 
 </div>
 
 ## 🌍 README Translations
 
-[中文说明](./README_CN.md) | [日本語の説明](./README_JA.md) | [한국어 설명](./README_KOR.md) | [Français](./README_FR.md) | [Português](./README_PTBR.md) | [Türkçe](./README_TR.md) | [Русский](./README_RU.md) | [Español](./README_ES.md) | [Italiano](./README_IT.md) | [ไทย](./README_TH.md) | [Deutsch](./README_DE.md) | [Tiếng Việt](./README_VI.md) | [עִברִית](https://github.com/elizaos/Elisa/blob/main/README_HE.md) | [Tagalog](./README_TG.md)
+[中文说明](./README_CN.md) | [日本語の説明](./README_JA.md) | [한국어 설명](./README_KOR.md) | [Français](./README_FR.md) | [Português](./README_PTBR.md) | [Türkçe](./README_TR.md) | [Русский](./README_RU.md) | [Español](./README_ES.md) | [Italiano](./README_IT.md) | [ไทย](./README_TH.md) | [Deutsch](./README_DE.md) | [Tiếng Việt](./README_VI.md) | [עִברִית](https://github.com/etheros/Ether/blob/main/README_HE.md) | [Tagalog](./README_TG.md)
 
 ## ✨ Features
 
@@ -50,33 +54,33 @@
 ### Use the Starter (Recommended)
 
 ```bash
-git clone https://github.com/elizaos/eliza-starter.git
-cd eliza-starter
+git clone https://github.com/etheros/ether-starter.git
+cd ether-starter
 cp .env.example .env
 pnpm i && pnpm build && pnpm start
 ```
 Once the agent is running, You should see the message to run "pnpm start:client" at the end.
-Open another terminal and move to same directory and then run below command and follow the URL to chat to your agent. 
+Open another terminal and move to the same directory, then run the command below and follow the URL to chat with your agent. 
 ```bash
 pnpm start:client
 ```
 
-Then read the [Documentation](https://elizaos.github.io/eliza/) to learn how to customize your Eliza.
+Then read the [Documentation](https://etheros.github.io/ether/) to learn how to customize your Ether.
 
-### Manually Start Eliza (Only recommended if you know what you are doing)
+### Manually Start Ether (Only recommended if you know what you are doing)
 
 ```bash
 # Clone the repository
-git clone https://github.com/elizaos/eliza.git
+git clone https://github.com/etheros/ether.git
 
 # Checkout the latest release
 # This project iterates fast, so we recommend checking out the latest release
 git checkout $(git describe --tags --abbrev=0)
 ```
 
-### Start Eliza with Gitpod
+### Start Ether with Gitpod
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/elizaos/eliza/tree/main)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/etheros/ether/tree/main)
 
 ### Edit the .env file
 
@@ -86,11 +90,11 @@ Copy .env.example to .env and fill in the appropriate values.
 cp .env.example .env
 ```
 
-Note: .env is optional. If your planning to run multiple distinct agents, you can pass secrets through the character JSON
+Note: .env is optional. If you plan to run multiple distinct agents, you can pass secrets through the character JSON.
 
-### Automatically Start Eliza
+### Automatically Start Ether
 
-This will run everything to setup the project and start the bot with the default character.
+This will run everything to set up the project and start the bot with the default character.
 
 ```bash
 sh scripts/start.sh
@@ -102,18 +106,18 @@ sh scripts/start.sh
 
 2. To load custom characters:
     - Use `pnpm start --characters="path/to/your/character.json"`
-    - Multiple character files can be loaded simultaneously
-3. Connect with X (Twitter)
-    - change `"clients": []` to `"clients": ["twitter"]` in the character file to connect with X
+    - Multiple character files can be loaded simultaneously.
+3. Connect with X (Twitter):
+    - Change `"clients": []` to `"clients": ["twitter"]` in the character file to connect with X.
 
-### Manually Start Eliza
+### Manually Start Ether
 
 ```bash
 pnpm i
 pnpm build
 pnpm start
 
-# The project iterates fast, sometimes you need to clean the project if you are coming back to the project
+# The project iterates fast; sometimes you need to clean the project if you are returning to the project
 pnpm clean
 ```
 
@@ -125,17 +129,19 @@ You may need to install Sharp. If you see an error when starting up, try install
 pnpm install --include=optional sharp
 ```
 
-### Community & contact
+### Community & Contact
 
-- [GitHub Issues](https://github.com/elizaos/eliza/issues). Best for: bugs you encounter using Eliza, and feature proposals.
+- [GitHub Issues](https://github.com/etheros/ether/issues). Best for: bugs you encounter using Ether and feature proposals.
 - [Discord](https://discord.gg/ai16z). Best for: sharing your applications and hanging out with the community.
 
 ## Contributors
 
-<a href="https://github.com/elizaos/eliza/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=elizaos/eliza" />
+<a href="https://github.com/etheros/ether/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=etheros/ether" />
 </a>
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=elizaos/eliza&type=Date)](https://star-history.com/#elizaos/eliza&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=etheros/ether&type=Date)](https://star-history.com/#etheros/ether&Date)
+
+
