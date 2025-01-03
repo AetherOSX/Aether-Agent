@@ -1,18 +1,8 @@
-Here's the updated version with every reference to "Eliza" replaced with "Ether":
+
 
 ---
 
 # Ether 🤖
-
-<div align="center">
-  <img src="./docs/static/img/ether_banner.jpg" alt="Ether Banner" width="100%" />
-</div>
-
-<div align="center">
-
-📖 [Documentation](https://etheros.github.io/ether/) | 🎯 [Examples](https://github.com/thejoven/awesome-ether)
-
-</div>
 
 ## 🌍 README Translations
 
