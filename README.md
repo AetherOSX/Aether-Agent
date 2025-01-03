@@ -1,6 +1,7 @@
 
 # Ether 🤖
-![ads](https://github.com/user-attachments/assets/94ec24ac-c300-44d4-bdbf-6ef6a3cad610)
+![image](https://github.com/user-attachments/assets/927e28f3-7088-42ac-a272-c925fe454fd6)
+
 
 
 ## ✨ Features
