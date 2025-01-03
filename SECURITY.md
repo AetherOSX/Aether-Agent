@@ -1,3 +1,5 @@
+
+
 # Security Policy
 
 ## Supported Versions
@@ -11,12 +13,12 @@ Given the early stage of the project, we currently only support the latest versi
 
 ## Reporting a Vulnerability
 
-We take the security of Eliza seriously. If you believe you have found a security vulnerability, please report it to us following these steps:
+We take the security of Ether seriously. If you believe you have found a security vulnerability, please report it to us following these steps:
 
 ### Private Reporting Process
 
 1. **DO NOT** create a public GitHub issue for the vulnerability
-2. Send an email to security@eliza.builders with:
+2. Send an email to security@ether.builders with:
     - A detailed description of the vulnerability
     - Steps to reproduce the issue
     - Potential impact of the vulnerability
@@ -73,7 +75,7 @@ We take the security of Eliza seriously. If you believe you have found a securit
 
 ### Current Implementation
 
-- Environment variable based secrets management
+- Environment variable-based secrets management
 - Type-safe API implementations
 - Automated dependency updates via Renovate
 - Continuous Integration security checks
@@ -120,6 +122,8 @@ As an MIT licensed project, users should understand:
 
 ## Contact
 
-- Security Issues: security@eliza.builders
-- General Questions: Join our [Discord](https://discord.gg/ai16z)
-- Updates: Follow our [security advisory page](https://github.com/elizaos/eliza/security/advisories)
+- Security Issues: security@ether.builders
+- General Questions: Join our [Discord](https://discord.gg/Ether-Foundation)
+- Updates: Follow our [security advisory page](https://github.com/etheros/ether/security/advisories)
+
+
