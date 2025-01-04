@@ -121,6 +121,5 @@ pnpm install --include=optional sharp
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=etheros/myriad&type=Date)](https://star-history.com/#myriados/myriad&Date)
 
 
