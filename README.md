@@ -3,7 +3,9 @@ Here is the updated text with **Ether** replaced by **Myriad**:
 ---
 
 # Myriad 🤖
-![image](https://github.com/user-attachments/assets/a01e9c54-b2d3-4075-be17-980872e046b4)
+
+![image](https://github.com/user-attachments/assets/441617fb-223f-4e05-96c8-84b86d397e2b)
+
 
 ## ✨ Features
 
