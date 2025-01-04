@@ -1,5 +1,5 @@
 
-# Ether 🤖
+# Myriad 🤖
 ![image](https://github.com/user-attachments/assets/a01e9c54-b2d3-4075-be17-980872e046b4)
 
 ## ✨ Features
