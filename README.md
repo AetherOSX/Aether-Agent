@@ -1,3 +1,6 @@
+Here is the updated text with **Ether** replaced by **Myriad**:
+
+---
 
 # Myriad 🤖
 ![image](https://github.com/user-attachments/assets/a01e9c54-b2d3-4075-be17-980872e046b4)
@@ -38,8 +41,8 @@
 ### Use the Starter (Recommended)
 
 ```bash
-git clone https://github.com/etheros/ether-starter.git
-cd ether-starter
+git clone https://github.com/etheros/myriad-starter.git
+cd myriad-starter
 cp .env.example .env
 pnpm i && pnpm build && pnpm start
 ```
@@ -49,22 +52,22 @@ Open another terminal and move to the same directory, then run the command below
 pnpm start:client
 ```
 
-Then read the [Documentation](https://etheros.github.io/ether/) to learn how to customize your Ether.
+Then read the [Documentation](https://etheros.github.io/myriad/) to learn how to customize your Myriad.
 
-### Manually Start Ether (Only recommended if you know what you are doing)
+### Manually Start Myriad (Only recommended if you know what you are doing)
 
 ```bash
 # Clone the repository
-git clone https://github.com/etheros/ether.git
+git clone https://github.com/etheros/myriad.git
 
 # Checkout the latest release
 # This project iterates fast, so we recommend checking out the latest release
 git checkout $(git describe --tags --abbrev=0)
 ```
 
-### Start Ether with Gitpod
+### Start Myriad with Gitpod
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/etheros/ether/tree/main)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/etheros/myriad/tree/main)
 
 ### Edit the .env file
 
@@ -76,7 +79,7 @@ cp .env.example .env
 
 Note: .env is optional. If you plan to run multiple distinct agents, you can pass secrets through the character JSON.
 
-### Automatically Start Ether
+### Automatically Start Myriad
 
 This will run everything to set up the project and start the bot with the default character.
 
@@ -94,7 +97,7 @@ sh scripts/start.sh
 3. Connect with X (Twitter):
     - Change `"clients": []` to `"clients": ["twitter"]` in the character file to connect with X.
 
-### Manually Start Ether
+### Manually Start Myriad
 
 ```bash
 pnpm i
@@ -116,5 +119,6 @@ pnpm install --include=optional sharp
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=etheros/ether&type=Date)](https://star-history.com/#etheros/ether&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=etheros/myriad&type=Date)](https://star-history.com/#myriados/myriad&Date)
+
 
