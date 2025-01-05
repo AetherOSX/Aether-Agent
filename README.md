@@ -1,10 +1,6 @@
-Here is the updated text with **Ether** replaced by **Myriad**:
+# Aether 🤖
 
----
-
-# Myriad 🤖
-
-![image](https://github.com/user-attachments/assets/441617fb-223f-4e05-96c8-84b86d397e2b)
+![image](https://github.com/user-attachments/assets/1095f6a0-3ec2-4dc7-8f59-66ccaf281342)
 
 
 ## ✨ Features
@@ -43,33 +39,33 @@ Here is the updated text with **Ether** replaced by **Myriad**:
 ### Use the Starter (Recommended)
 
 ```bash
-git clone https://github.com/etheros/myriad-starter.git
-cd myriad-starter
+git clone https://github.com/aetheros/aether-starter.git
+cd aether-starter
 cp .env.example .env
 pnpm i && pnpm build && pnpm start
 ```
 Once the agent is running, You should see the message to run "pnpm start:client" at the end.
-Open another terminal and move to the same directory, then run the command below and follow the URL to chat with your agent. 
+Open another terminal and move to the same directory, then run the command below and follow the URL to chat with your agent.
 ```bash
 pnpm start:client
 ```
 
-Then read the [Documentation](https://etheros.github.io/myriad/) to learn how to customize your Myriad.
+Then read the [Documentation](https://aetheros.github.io/aether/) to learn how to customize your Aether.
 
-### Manually Start Myriad (Only recommended if you know what you are doing)
+### Manually Start Aether (Only recommended if you know what you are doing)
 
 ```bash
 # Clone the repository
-git clone https://github.com/etheros/myriad.git
+git clone https://github.com/aetheros/aether.git
 
 # Checkout the latest release
 # This project iterates fast, so we recommend checking out the latest release
 git checkout $(git describe --tags --abbrev=0)
 ```
 
-### Start Myriad with Gitpod
+### Start Aether with Gitpod
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/etheros/myriad/tree/main)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/aetheros/aether/tree/main)
 
 ### Edit the .env file
 
@@ -81,7 +77,7 @@ cp .env.example .env
 
 Note: .env is optional. If you plan to run multiple distinct agents, you can pass secrets through the character JSON.
 
-### Automatically Start Myriad
+### Automatically Start Aether
 
 This will run everything to set up the project and start the bot with the default character.
 
@@ -99,7 +95,7 @@ sh scripts/start.sh
 3. Connect with X (Twitter):
     - Change `"clients": []` to `"clients": ["twitter"]` in the character file to connect with X.
 
-### Manually Start Myriad
+### Manually Start Aether
 
 ```bash
 pnpm i
@@ -118,9 +114,7 @@ You may need to install Sharp. If you see an error when starting up, try install
 pnpm install --include=optional sharp
 ```
 
-
 ## Star History
 
-![star-history-202515](https://github.com/user-attachments/assets/1f80d933-e284-4999-82dd-4b49390e6181)
-
+[![Star History Chart](https://api.star-history.com/svg?repos=aetheros/aether&type=Date)](https://star-history.com/#aetheros/aether&Date)
 
