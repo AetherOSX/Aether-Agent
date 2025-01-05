@@ -1,4 +1,4 @@
-# Aether 🤖
+# Eris🤖
 
 ![image](https://github.com/user-attachments/assets/1095f6a0-3ec2-4dc7-8f59-66ccaf281342)
 
